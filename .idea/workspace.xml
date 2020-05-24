@@ -43,6 +43,15 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
+  <component name="RunManager">
+    <configuration name="SssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.sss.SssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -53,17 +62,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590315412052</updated>
+      <workItem from="1590315413552" duration="250000" />
     </task>
+    <task id="LOCAL-00001" summary="什么也没做">
+      <created>1590315481567</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590315481567</updated>
+    </task>
+    <task id="LOCAL-00002" summary="什么也没做">
+      <created>1590315611792</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590315611792</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="什么也没做" />
+    <option name="LAST_COMMIT_MESSAGE" value="什么也没做" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1590315479884">
+    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1590315610778">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590315479884" />
+    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590315610778" />
     <state x="461" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590315426121">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
