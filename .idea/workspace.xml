@@ -33,8 +33,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="D:/dtd/dubbo.xsd" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
@@ -58,9 +60,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1590315479884">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590315479884" />
     <state x="461" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590315426121">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="461" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1590315426121" />
+    <state x="52" y="35" key="new project wizard" timestamp="1590315573885">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="52" y="35" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1590315573885" />
   </component>
 </project>
